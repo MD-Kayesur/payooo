@@ -6,7 +6,7 @@ document.getElementById('button-login')
          
  
         if (  emailnumber ===  '3' && pinnumber  === '12' ) {
-            alert('you are login'); 
+            alert('if you click ok button you will entry new page'); 
             window.location.href = "home.html"
         } else {
             alert('wrong number ');
